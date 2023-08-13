@@ -1,8 +1,3 @@
-[![Website](https://img.shields.io/website?url=https://altanbagana.me&logo=googlechrome&label=Portfolio)](https://altanbagana.me)
-![Github followers](https://img.shields.io/github/followers/altanbgn?label=Follow&style=social)
-[![Linkedin: altanbagana](https://img.shields.io/badge/-Altanbagana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/altanbagana-erdene-ochir-707423153/)](https://www.linkedin.com/in/altanbagana-erdene-ochir-707423153/)
-[![Instagram: res0nance](https://img.shields.io/badge/-res0nance-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/res0nan.ce/)](https://www.instagram.com/res0nan.ce/)
-
 <h1 align="center">
     ✨ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓖𝓲𝓽𝓱𝓾𝓫 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ✨
 </h1>
@@ -10,7 +5,7 @@
     <img height="300" width="500" align="center" src="https://github.com/altanbgn/altanbgn/blob/main/assets/radicaledward.gif" />
 </div>
 <h1 align="center">
-    📖 About Me 📖
+    📖 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 📖
 </h1>
 
 ```javascript
@@ -28,9 +23,19 @@ const Altanbagana = {
 ```
 
 <h1 align="center">
-    😎 Skills 😎
+    😎 𝓢𝓴𝓲𝓵𝓵𝓼 😎
 </h1>
 
+![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=for-the-badge&logo=Svelte&logoColor=FF3E00)
-
+![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=00ADD8)
+![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=Rust&logoColor=000000)
+![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=Unity&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=Cplusplus&logoColor=00599C)
+![Shopify](https://img.shields.io/badge/-Shopify-black?style=for-the-badge&logo=Shopify&logoColor=7AB55C)
+![Neovim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=Neovim&logoColor=57A143)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=for-the-badge&logo=Ubuntu&logoColor=E95420)
+![GNU Bash](https://img.shields.io/badge/-GNUBash-black?style=for-the-badge&logo=GNUBash&logoColor=4EAA25)
