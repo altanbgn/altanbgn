@@ -32,7 +32,7 @@ const Altanbagana = {
     <img height="300" width="500" align="center" src="https://github.com/altanbgn/altanbgn/blob/main/assets/goku.gif" />
 </div>
 
-<h3>
+<h3 align="left">
     Languages
 </h3>
 
