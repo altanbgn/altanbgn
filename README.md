@@ -8,6 +8,13 @@
     📖 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 📖
 </h1>
 
+<p width="500">
+I am a self-studied software engineer with a passion for creating and experimenting with various
+technologies as much as possible with a focus on modular software and clean code.
+The ability to make anything you imagine and make it as a software was just mind blowing since I was a kid.
+Still to this day, I am learning new ways to do things which gets me so excited 😊
+</p>
+
 ```javascript
 const Altanbagana = {
     fullName: "Altanbagana Erdene-Ochir",
@@ -25,8 +32,6 @@ const Altanbagana = {
     ],
 }
 ```
-
-I am a self-studied software engineer with a passion for creating and experimenting with technologies as much as possible with a focus on modular software and clean code
 
 <h1 align="center">
     😎 𝓢𝓴𝓲𝓵𝓵𝓼 😎
