@@ -14,5 +14,25 @@
 </h1>
 
 ```javascript
-How bout now?
+    const Altanbagana = {
+        fullName: "Altanbagana Erdene-Ochir",
+        country: "Mongolia",
+        age: "22",
+        hobbies: [
+            "💻 Coding useless stuff",
+            "🎮 Video game enjoyer",
+            "📕 Manga reader",
+            "🧪 Trying out other technologies to learn more"
+        ]
+    }
+```
+
+```javascript
+    const Skills = {
+        { language: "Typescript/Javascript", level: "Professional" },
+        { language: "HTML/CSS", level: "Professional" },
+        { language: "Rust", level: "Beginner++" },
+        { language: "C++", level: "Beginner+" },
+
+    }
 ```
