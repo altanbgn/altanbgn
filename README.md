@@ -31,9 +31,4 @@ const Altanbagana = {
     😎 Skills 😎
 </h1>
 
-```text
-💬 Languages     - English, Japanese, Mongolian
-💽 Programming   - Typescript, C#, C/C++, Python, Swift, Rust, Go
-💾 Database      - MySQL, PostgreSQL, MongoDB, ScyllaDB (learning)
-🗃️ Technologies  - React(NextJS, Remix), Express, Prisma, Tailwind
-```
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=61DAFB&link=https://www.linkedin.com/in/altanbagana-erdene-ochir-707423153/)
