@@ -11,16 +11,22 @@
 ```javascript
 const Altanbagana = {
     fullName: "Altanbagana Erdene-Ochir",
+    gender: "He/Him/Male",
     country: "Mongolia",
     age: "22",
+    status: "Employed",
+    workingAt: "Gobi Cashmere",
     hobbies: [
         "💻 Coding useless stuff",
         "🎮 Video game enjoyer",
         "📕 Manga reader",
         "🧪 Trying out other technologies to learn more"
+        "👾 Still trying to make my own video game"
     ],
 }
 ```
+
+I am a self-studied software engineer with a passion for creating and experimenting with technologies as much as possible with a focus on modular software and clean code
 
 <h1 align="center">
     😎 𝓢𝓴𝓲𝓵𝓵𝓼 😎
@@ -72,6 +78,7 @@ const Altanbagana = {
 ![Neovim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=Neovim&logoColor=57A143)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=Nginx&logoColor=57A143)
 ![GNU Bash](https://img.shields.io/badge/-GNUBash-black?style=for-the-badge&logo=GNUBash&logoColor=4EAA25)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=F1502F)
 
 <h1 align="center">
     📝 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 📝
