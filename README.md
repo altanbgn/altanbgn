@@ -31,4 +31,6 @@ const Altanbagana = {
     😎 Skills 😎
 </h1>
 
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=61DAFB&link=https://www.linkedin.com/in/altanbagana-erdene-ochir-707423153/)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/-Svelte-black?style=for-the-badge&logo=Svelte&logoColor=FF3E00)
+
