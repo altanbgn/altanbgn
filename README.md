@@ -49,6 +49,7 @@ const Altanbagana = {
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=for-the-badge&logo=Svelte&logoColor=FF3E00)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=Next.js&logoColor=FFFFFF)
 ![Remix](https://img.shields.io/badge/-Remix-black?style=for-the-badge&logo=Remix&logoColor=FFFFFF)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=Express&logoColor=FFFFFF)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis&logoColor=DC382D)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=for-the-badge&logo=RabbitMQ&logoColor=FF6600)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=Unity&logoColor=FFFFFF)
