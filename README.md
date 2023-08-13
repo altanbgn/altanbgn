@@ -30,6 +30,7 @@ const Altanbagana = {
 <h1 align="center">
     😎 Skills 😎
 </h1>
+
 ```text
 💬 Languages     - English, Japanese, Mongolian
 💽 Programming   - Typescript, C#, C/C++, Python, Swift, Rust, Go
