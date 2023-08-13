@@ -14,25 +14,25 @@
 </h1>
 
 ```javascript
-    const Altanbagana = {
-        fullName: "Altanbagana Erdene-Ochir",
-        country: "Mongolia",
-        age: "22",
-        hobbies: [
-            "💻 Coding useless stuff",
-            "🎮 Video game enjoyer",
-            "📕 Manga reader",
-            "🧪 Trying out other technologies to learn more"
-        ]
-    }
+const Altanbagana = {
+    fullName: "Altanbagana Erdene-Ochir",
+    country: "Mongolia",
+    age: "22",
+    hobbies: [
+        "💻 Coding useless stuff",
+        "🎮 Video game enjoyer",
+        "📕 Manga reader",
+        "🧪 Trying out other technologies to learn more"
+    ]
+}
 ```
 
-```javascript
-    const Skills = {
-        { language: "Typescript/Javascript", level: "Professional" },
-        { language: "HTML/CSS", level: "Professional" },
-        { language: "Rust", level: "Beginner++" },
-        { language: "C++", level: "Beginner+" },
-
-    }
+<h1 align="center">
+    😎 Skills 😎
+</h1>
+```text
+💬 Languages     - English, Japanese, Mongolian
+💽 Programming   - Typescript, C#, C/C++, Python, Swift, Rust, Go
+💾 Database      - MySQL, PostgreSQL, MongoDB, ScyllaDB (learning)
+🗃️ Technologies  - React(NextJS, Remix), Express, Prisma, Tailwind
 ```
