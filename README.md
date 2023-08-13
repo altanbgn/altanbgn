@@ -6,5 +6,7 @@
 <body>
     <h1 align="center">✨ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓖𝓲𝓽𝓱𝓾𝓫 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ✨</h1>
     <br/>
-    <img height="400" width="500" align="center" src="https://github.com/altanbgn/altanbgn/blob/main/assets/radicaledward.gif" />
+    <div align="center">
+        <img height="300" width="500" align="center" src="https://github.com/altanbgn/altanbgn/blob/main/assets/radicaledward.gif" />
+    </div>
 </body>
