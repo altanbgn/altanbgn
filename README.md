@@ -32,8 +32,8 @@ const Altanbagana = {
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=FFFFFF)
 ![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=00ADD8)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=Cplusplus&logoColor=00599C)
@@ -50,10 +50,18 @@ const Altanbagana = {
 ![Shopify](https://img.shields.io/badge/-Shopify-black?style=for-the-badge&logo=Shopify&logoColor=7AB55C)
 
 <h3>
+   Database
+</h3>
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
+
+<h3>
     Environment
 </h3>
 
-![Neovim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=Neovim&logoColor=57A143)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=for-the-badge&logo=Ubuntu&logoColor=E95420)
+![Neovim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=Neovim&logoColor=57A143)
 ![GNU Bash](https://img.shields.io/badge/-GNUBash-black?style=for-the-badge&logo=GNUBash&logoColor=4EAA25)
