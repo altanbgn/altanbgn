@@ -26,10 +26,6 @@ const Altanbagana = {
     😎 𝓢𝓴𝓲𝓵𝓵𝓼 😎
 </h1>
 
-<div align="center">
-    <img height="300" width="500" align="center" src="https://github.com/altanbgn/altanbgn/blob/main/assets/goku.gif" />
-</div>
-
 <h3>
     Languages
 </h3>
