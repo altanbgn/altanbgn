@@ -36,6 +36,7 @@ const Altanbagana = {
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=FFFFFF)
 ![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=00ADD8)
+![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=Swift&logoColor=F05138)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=Cplusplus&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=Csharp&logoColor=239120)
 
@@ -43,6 +44,7 @@ const Altanbagana = {
     Technologies
 </h3>
 
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=Node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=for-the-badge&logo=Svelte&logoColor=FF3E00)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=Next.js&logoColor=FFFFFF)
