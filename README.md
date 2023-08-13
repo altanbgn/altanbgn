@@ -36,6 +36,8 @@ const Altanbagana = {
     Languages
 </h3>
 
+<p align="left">
+
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
@@ -45,6 +47,8 @@ const Altanbagana = {
 ![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=Swift&logoColor=F05138)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=Cplusplus&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=Csharp&logoColor=239120)
+
+</p>
 
 <h3>
     Technologies
