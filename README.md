@@ -14,8 +14,8 @@
         📖 About Me 📖
     </h1>
     <div style="display: flex; justify-content: space-between">
-        ```javascript
-        Pog?
-        ```
+        <code>
+            Pog
+        </code>
     </div>
 </body>
