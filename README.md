@@ -26,15 +26,30 @@ const Altanbagana = {
     😎 𝓢𝓴𝓲𝓵𝓵𝓼 😎
 </h1>
 
-![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML&logoColor=E34F26)
+<h4>
+    Languages
+</h4>
+
+![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=00ADD8)
+![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=000000)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=Cplusplus&logoColor=00599C)
+![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=Csharp&logoColor=239120)
+
+<h4>
+    Technologies
+</h4>
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=for-the-badge&logo=Svelte&logoColor=FF3E00)
-![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=00ADD8)
-![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=Rust&logoColor=000000)
+![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=Next.js&logoColor=000000)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=Unity&logoColor=FFFFFF)
-![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=Cplusplus&logoColor=00599C)
 ![Shopify](https://img.shields.io/badge/-Shopify-black?style=for-the-badge&logo=Shopify&logoColor=7AB55C)
+
+<h4>
+    Environment
+</h4>
+
 ![Neovim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=Neovim&logoColor=57A143)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=for-the-badge&logo=Ubuntu&logoColor=E95420)
