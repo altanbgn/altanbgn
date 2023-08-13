@@ -18,7 +18,8 @@ const Altanbagana = {
         "🎮 Video game enjoyer",
         "📕 Manga reader",
         "🧪 Trying out other technologies to learn more"
-    ]
+    ],
+
 }
 ```
 
@@ -72,3 +73,13 @@ const Altanbagana = {
 ![Neovim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=Neovim&logoColor=57A143)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=Nginx&logoColor=57A143)
 ![GNU Bash](https://img.shields.io/badge/-GNUBash-black?style=for-the-badge&logo=GNUBash&logoColor=4EAA25)
+
+<h1 align="center">
+    📝 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 📝
+</h1>
+
+<!-- [![Buy me a coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-black?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00)](https://www.buymeacoffee.com/res0nan.ce) -->
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/res0nan.ce)
+[![Twitter (X)](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=Twitter&logoColor=1D9BF0)](https://twitter.com/res0nan_ce)
+[![Reddit](https://img.shields.io/badge/-Reddit-black?style=for-the-badge&logo=Reddit&logoColor=FF4500)](https://www.reddit.com/user/skywarriyo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/altanbgn/)
