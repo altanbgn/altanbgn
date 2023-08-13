@@ -39,6 +39,9 @@ const Altanbagana = {
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=FFFFFF)
+
+<br/>
+
 ![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=00ADD8)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=Swift&logoColor=F05138)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=Cplusplus&logoColor=00599C)
