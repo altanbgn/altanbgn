@@ -1,5 +1,5 @@
 <h1 align="center">
-    ✨ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓖𝓲𝓽𝓱𝓾𝓫 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ✨
+    ✨ 𝓦𝓔𝓛𝓒𝓞𝓜𝓔 𝓣𝓞 𝓜𝓨 𝓖𝓘𝓣𝓗𝓤𝓑 𝓟𝓡𝓞𝓕𝓘𝓛𝓔 ✨
 </h1>
 <div align="center">
     <img height="300" width="500" align="center" src="https://github.com/altanbgn/altanbgn/blob/main/assets/radicaledward.gif" />
@@ -7,6 +7,10 @@
 <h1 align="center">
     📖 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 📖
 </h1>
+
+<h3>
+    👋 Hi there
+</h3>
 
 <p width="500">
 I am a self-studied software engineer with a passion for creating and experimenting with various
