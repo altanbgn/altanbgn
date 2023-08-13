@@ -26,13 +26,9 @@ const Altanbagana = {
     😎 𝓢𝓴𝓲𝓵𝓵𝓼 😎
 </h1>
 
-<div style="display: flex; justify-content: space-between">
-
-<div align="center">
+<div align="right">
     <img height="300" width="500" align="center" src="https://github.com/altanbgn/altanbgn/blob/main/assets/goku.gif" />
 </div>
-
-<div>
 
 <h3>
     Languages
@@ -80,7 +76,3 @@ const Altanbagana = {
 ![Neovim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=Neovim&logoColor=57A143)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=Nginx&logoColor=57A143)
 ![GNU Bash](https://img.shields.io/badge/-GNUBash-black?style=for-the-badge&logo=GNUBash&logoColor=4EAA25)
-
-</div>
-
-</div>
