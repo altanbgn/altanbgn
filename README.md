@@ -26,9 +26,9 @@ const Altanbagana = {
     😎 𝓢𝓴𝓲𝓵𝓵𝓼 😎
 </h1>
 
-<h4>
+<h3>
     Languages
-</h4>
+</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6)
@@ -37,18 +37,19 @@ const Altanbagana = {
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=Cplusplus&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=Csharp&logoColor=239120)
 
-<h4>
+<h3>
     Technologies
-</h4>
+</h3>
+
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=for-the-badge&logo=Svelte&logoColor=FF3E00)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=Next.js&logoColor=000000)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=Unity&logoColor=FFFFFF)
 ![Shopify](https://img.shields.io/badge/-Shopify-black?style=for-the-badge&logo=Shopify&logoColor=7AB55C)
 
-<h4>
+<h3>
     Environment
-</h4>
+</h3>
 
 ![Neovim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=Neovim&logoColor=57A143)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
