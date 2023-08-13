@@ -1,5 +1,3 @@
-### Hi, I'm Altanbagana Erdene-Ochir 👋
-
 [![Website](https://img.shields.io/website?url=https://altanbagana.me&logo=googlechrome&label=Portfolio)](https://altanbagana.me)
 ![Github followers](https://img.shields.io/github/followers/altanbgn?label=Follow&style=social)
 [![Linkedin: altanbagana](https://img.shields.io/badge/-Altanbagana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/altanbagana-erdene-ochir-707423153/)](https://www.linkedin.com/in/altanbagana-erdene-ochir-707423153/)
@@ -7,4 +5,6 @@
 
 <body>
     <h1 align="center">✨ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓖𝓲𝓽𝓱𝓾𝓫 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ✨</h1>
+    <br/>
+    <img height="400" width="500" align="center" src="https://github.com/altanbgn/altanbgn/blob/master/assets/radicaledward.gif" />
 </body>
