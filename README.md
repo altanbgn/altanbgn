@@ -33,7 +33,7 @@ const Altanbagana = {
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=00ADD8)
-![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=000000)
+![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=Cplusplus&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=Csharp&logoColor=239120)
 
