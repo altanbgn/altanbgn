@@ -12,8 +12,7 @@
 <h1 align="center">
     📖 About Me 📖
 </h1>
-<div style="display: flex; justify-content: space-between">
-    ```javascript
-        Pog?
-    ```
-</div>
+
+```javascript
+How bout now?
+```
