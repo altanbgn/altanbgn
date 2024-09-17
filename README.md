@@ -26,7 +26,7 @@ const Altanbagana = {
     country: "Mongolia",
     age: "23",
     status: "Employed",
-    workingAt: "Gobi Cashmere",
+    workingAt: "AiLab LLC",
     hobbies: [
         "💻 Coding useless stuff",
         "🎮 Video game enjoyer",
