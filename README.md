@@ -45,20 +45,21 @@ const Altanbagana = {
     Languages
 </h3>
 
+![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=FFFFFF)
+![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=00ADD8)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=OpenJDK&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=Cplusplus&logoColor=00599C)
+![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=Csharp&logoColor=239120)
+![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=Swift&logoColor=F05138)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
-![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=FFFFFF)
-![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=00ADD8)
-![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=Swift&logoColor=F05138)
-![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=Cplusplus&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=Csharp&logoColor=239120)
-
 <h3>
     Technologies
 </h3>
 
+![Spring](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=Spring&logoColor=6DB33F)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=Node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=for-the-badge&logo=Svelte&logoColor=FF3E00)
@@ -82,8 +83,7 @@ const Altanbagana = {
     Environment
 </h3>
 
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=for-the-badge&logo=Ubuntu&logoColor=E95420)
+![ArchLinux](https://img.shields.io/badge/-ArchLinux-black?style=for-the-badge&logo=ArchLinux&logoColor=1793D1)
 ![Neovim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=Neovim&logoColor=57A143)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=Nginx&logoColor=57A143)
 ![GNU Bash](https://img.shields.io/badge/-GNUBash-black?style=for-the-badge&logo=GNUBash&logoColor=4EAA25)
@@ -99,5 +99,5 @@ const Altanbagana = {
 
 [![ProtonMail](https://img.shields.io/badge/-altanbagana%40pm.me-black?style=for-the-badge&logo=ProtonMail&logoColor=6D4AFF)](altanbagana@pm.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/altanbgn/)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/altanbgn.me/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/resxnance__/)
 [![Twitter (X)](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=Twitter&logoColor=1D9BF0)](https://twitter.com/altanbgn/)
