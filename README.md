@@ -100,4 +100,4 @@ const Altanbagana = {
 [![ProtonMail](https://img.shields.io/badge/-altanbagana%40pm.me-black?style=for-the-badge&logo=ProtonMail&logoColor=6D4AFF)](altanbagana@pm.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/altanbgn/)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/resxnance__/)
-[![X](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=X&logoColor=000000)](https://x.com/altanbgn/)
+[![X](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=X&logoColor=FFFFFF)](https://x.com/altanbgn/)
