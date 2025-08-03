@@ -24,7 +24,7 @@ const Altanbagana = {
     fullName: "Altanbagana Erdene-Ochir",
     gender: "He/Him/Male",
     country: "Mongolia",
-    age: "23",
+    age: "24",
     status: "Employed",
     workingAt: "AiLab LLC",
     hobbies: [
