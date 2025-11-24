@@ -13,10 +13,7 @@
 </h3>
 
 <p width="500">
-I am a self-studied software engineer with a passion for creating and experimenting with various
-technologies as much as possible with a focus on modular software and clean code.
-The ability to make anything you imagine and make it as a software was just mind blowing since I was a kid.
-Still to this day, I am learning new ways to do things which gets me so excited 😊
+    Self-studied software engineer here and I write software that I find interesting 😊.
 </p>
 
 ```javascript
